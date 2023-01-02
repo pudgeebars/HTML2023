@@ -9,6 +9,9 @@ https://developer.mozilla.org/en-US/docs/web/html
 online coding for HTML
 https://codepen.io/pen
 
+HTML code validator
+https://validator.w3.org/
+
 Jonas' Resources webpage(Important:all web design materials can be found here)
 http://codingheroes.io/resources/
 
